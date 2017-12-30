@@ -1,12 +1,20 @@
 ## How to buy Ripple (XRP)
 
+#### Buy directly
+
 **[CEX.io](https://cex.io/r/0/up109972798/0/)**
 
 CEX is an exchange, you can buy all sorts of crypto online, the best part about it is that the verification process to buy small amounts with **Credit Cards** is very simple. 
 
 **[Changelly](https://changelly.com/?ref_id=24b764cfb79d)**
 
-Changelly is an instante exchange, instead of lining up orders like a traditional exchange, they provide exchange rates for crypto-to-crypto transactions.
+Changelly is an instant exchange, instead of lining up orders like a traditional exchange, they provide exchange rates for crypto-to-crypto transactions.
+
+#### Jump through hoops
+
+You can still get XRP through your traditional exchange, you just have to perform some additional steps.
+
+(More info on this to come)
 
 ## Where to Store Ripple (XRP)
 
