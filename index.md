@@ -4,9 +4,9 @@
 
 CEX is an exchange, you can buy all sorts of crypto online, the best part about it is that the verification process to buy small amounts with credit cards is very simple. 
 
-### Where to Store Ripple (XRP)
+## Where to Store Ripple (XRP)
 
-**Exchanges**
+### Exchanges
 
 You can store ripple directly on the exchange where you have bought it. The problem with this scenario is that exchanges can be very fragile, it can be hard to withdraw your funds when there is high demands or they can disappear altogether (remember [Mt. Gox]( https://en.wikipedia.org/wiki/Mt._Gox)?)
 
