@@ -16,7 +16,7 @@ You can still get XRP through your traditional exchange, you just have to perfor
 
 **Scenario #1 - Through [Coinbase](https://www.coinbase.com/join/59f740cda24eb102f4b6b060)**
 
-- Buy LiteCoin or Ethereum on [coinbase](https://www.coinbase.com/join/59f740cda24eb102f4b6b060) (avoid Bitcoin)
+- Buy LiteCoin or Ethereum on [coinbase](https://www.coinbase.com/join/59f740cda24eb102f4b6b060) (avoid Bitcoin) with a Credit Card
 - Send it to your current exchange
 - Trade it for XRP
 
