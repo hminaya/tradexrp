@@ -1,6 +1,8 @@
 ## How to buy Ripple (XRP)
 
-1
+**Directly with [CEX.io](https://cex.io/r/0/up109972798/0/)**
+
+CEX is an exchange, you can buy all sorts of crypto online, the best part about it is that the verification process to buy small amounts with credit cards is very simple. 
 
 ### Where to Store Ripple (XRP)
 
