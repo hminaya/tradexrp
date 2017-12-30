@@ -14,7 +14,13 @@ Changelly is an instant exchange, instead of lining up orders like a traditional
 
 You can still get XRP through your traditional exchange, you just have to perform some additional steps.
 
-(More info on this to come)
+**Scenario #1 - Through [Coinbase](https://www.coinbase.com/join/59f740cda24eb102f4b6b060)**
+
+- Buy LiteCoin or Ethereum on [coinbase](https://www.coinbase.com/join/59f740cda24eb102f4b6b060) (avoid Bitcoin)
+- Send it to your current exchange
+- Trade it for XRP
+
+(more info soon)
 
 ## Where to Store Ripple (XRP)
 
