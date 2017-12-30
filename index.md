@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## How to buy Ripple (XRP)
 
-You can use the [editor on GitHub](https://github.com/hminaya/tradexrp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+1
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Where to Store Ripple (XRP)
 
-### Markdown
+**Exchanges**
+You can store ripple directly on the exchange where you have bought it. The problem with this scenario is that exchanges can be very fragile, it can be hard to withdraw your funds when there is high demands or they can disappear altogether (remember [Mt. Gox]( https://en.wikipedia.org/wiki/Mt._Gox)?)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Hardware Wallet**
+The best option is to purchase a hardware wallet and store your coins in your own pocket :).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hminaya/tradexrp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Software Wallet**
+These are basically free, you just download the software and follow a few simple steps. The problem here is that if your PC is compromised (virus or hacked), then you risk losing all your coins.
