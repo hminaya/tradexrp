@@ -1,3 +1,6 @@
+<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+<div class="coinmarketcap-currency-widget" data-currency="ripple" data-base="USD"  data-secondary="BTC"></div>
+
 ## How to buy Ripple (XRP)
 
 #### Buy directly
