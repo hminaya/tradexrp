@@ -36,4 +36,12 @@ You can store ripple directly on the exchange where you have bought it. The prob
 
 These are basically free, you just download the software and follow a few simple steps. The problem here is that if your PC is compromised (virus or hacked), then you risk losing all your coins.
 
-<h1>fes</h1
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111765983-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-111765983-1');
+</script>
